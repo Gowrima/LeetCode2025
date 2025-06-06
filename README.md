@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gowrima/LeetCode2025/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
