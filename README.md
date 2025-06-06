@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Gowrima/LeetCode2025/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gowrima/LeetCode2025/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gowrima/LeetCode2025/tree/master/0012-integer-to-roman) |
+| [0070-climbing-stairs](https://github.com/Gowrima/LeetCode2025/tree/master/0070-climbing-stairs) |
 ## Recursion
 |  |
 | ------- |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Gowrima/LeetCode2025/tree/master/0070-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -107,4 +109,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Gowrima/LeetCode2025/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
