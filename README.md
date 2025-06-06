@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/Gowrima/LeetCode2025/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
@@ -129,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/Gowrima/LeetCode2025/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
