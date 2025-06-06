@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gowrima/LeetCode2025/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Gowrima/LeetCode2025/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
 ## Backtracking
 |  |
 | ------- |
@@ -87,4 +89,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
