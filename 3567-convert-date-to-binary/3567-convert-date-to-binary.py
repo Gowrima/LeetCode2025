@@ -13,8 +13,7 @@ class Solution:
                 res += str(cur%2)
                 cur = cur//2
             
-            result += res[::-1]
-            result += '-'
+            result = result + res[::-1] + '-'
         
         return result[:-1]
 
