@@ -6,7 +6,6 @@ class Solution:
         for i in range(len(date_)):
             # convert date_[i] to binary
             res = ''
-
             cur = int(date_[i])
 
             while cur > 0:
