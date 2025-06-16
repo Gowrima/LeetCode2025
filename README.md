@@ -15,12 +15,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Gowrima/LeetCode2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gowrima/LeetCode2025/tree/master/0057-insert-interval) |
+| [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gowrima/LeetCode2025/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gowrima/LeetCode2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gowrima/LeetCode2025/tree/master/0012-integer-to-roman) |
+| [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Linked List
 |  |
 | ------- |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
+| [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
+| [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Simulation
 |  |
 | ------- |
@@ -136,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Gowrima/LeetCode2025/tree/master/0191-number-of-1-bits) |
+## Design
+|  |
+| ------- |
+| [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 <!---LeetCode Topics End-->
