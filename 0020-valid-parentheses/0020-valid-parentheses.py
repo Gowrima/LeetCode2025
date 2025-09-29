@@ -3,9 +3,6 @@ class Solution:
         pair = {')':'(', ']':'[', '}':'{'}
         stack = []
         
-        if len(s) == 1:
-            return False
-
         for c in s:
             if c in pair.values():
                 stack.append(c)
