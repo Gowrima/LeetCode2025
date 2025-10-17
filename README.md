@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/Gowrima/LeetCode2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gowrima/LeetCode2025/tree/master/0057-insert-interval) |
+| [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Gowrima/LeetCode2025/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Gowrima/LeetCode2025/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gowrima/LeetCode2025/tree/master/0012-integer-to-roman) |
+| [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gowrima/LeetCode2025/tree/master/0070-climbing-stairs) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
 ## Recursion
