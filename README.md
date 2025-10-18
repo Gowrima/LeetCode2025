@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Gowrima/LeetCode2025/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gowrima/LeetCode2025/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/Gowrima/LeetCode2025/tree/master/0367-valid-perfect-square) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Gowrima/LeetCode2025/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [0367-valid-perfect-square](https://github.com/Gowrima/LeetCode2025/tree/master/0367-valid-perfect-square) |
 ## Binary Tree
 |  |
 | ------- |
