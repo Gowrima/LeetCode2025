@@ -1,4 +1,4 @@
-class Solution(object):
+class Solution:
     def isPerfectSquare(self, num):
         """
         :type num: int
@@ -8,10 +8,10 @@ class Solution(object):
             return True
         
         left = 2
-        right = num/2
+        right = num//2
         
         while left <= right:
-            mid = (left+right)/2
+            mid = (left+right)//2
             tmp = mid*mid
             if tmp == num:
                 return True
@@ -21,5 +21,3 @@ class Solution(object):
                 left = mid+1
             
         return False
-                
-        
