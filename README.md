@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Gowrima/LeetCode2025/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Gowrima/LeetCode2025/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gowrima/LeetCode2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gowrima/LeetCode2025/tree/master/0012-integer-to-roman) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
+| [4080-smallest-missing-multiple-of-k](https://github.com/Gowrima/LeetCode2025/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Linked List
 |  |
 | ------- |
