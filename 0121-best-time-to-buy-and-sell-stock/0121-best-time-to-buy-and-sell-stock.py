@@ -7,9 +7,10 @@ class Solution:
             if prices[i] > prices[j]:
                 i += 1
                 j = i+1
-            else:
-                cur_profit = prices[j]-prices[i]
-                j += 1
+                continue
+            
+            cur_profit = prices[j]-prices[i]
+            j += 1
             
             if cur_profit > max_profit:
                 max_profit = cur_profit
