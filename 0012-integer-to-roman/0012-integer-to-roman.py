@@ -20,9 +20,9 @@ class Solution:
 
         roman = ''
 
-        for value, symbol in roman_numerals.items():
-            while num >= value:
-                roman += symbol
-                num -= value
+        for n in roman_numerals:
+            while num >= n:
+                roman += roman_numerals[n]
+                num -= n
         
         return roman
