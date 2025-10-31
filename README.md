@@ -139,10 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -161,4 +164,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 <!---LeetCode Topics End-->
