@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gowrima/LeetCode2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gowrima/LeetCode2025/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowrima/LeetCode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Gowrima/LeetCode2025/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Gowrima/LeetCode2025/tree/master/0053-maximum-subarray) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0191-number-of-1-bits](https://github.com/Gowrima/LeetCode2025/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -150,11 +153,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Gowrima/LeetCode2025/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0367-valid-perfect-square](https://github.com/Gowrima/LeetCode2025/tree/master/0367-valid-perfect-square) |
 ## Binary Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Bit Manipulation
 |  |
