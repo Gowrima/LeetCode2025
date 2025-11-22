@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowrima/LeetCode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Gowrima/LeetCode2025/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Hash Table
@@ -83,10 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Gowrima/LeetCode2025/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Gowrima/LeetCode2025/tree/master/0061-rotate-list) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gowrima/LeetCode2025/tree/master/0011-container-with-most-water) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
 | ------- |
@@ -97,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gowrima/LeetCode2025/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gowrima/LeetCode2025/tree/master/0056-merge-intervals) |
+| [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
 | ------- |
