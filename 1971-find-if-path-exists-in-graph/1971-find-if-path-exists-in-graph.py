@@ -2,21 +2,21 @@ from collections import defaultdict
 
 class Solution:
     def dfs(self, graph, s, d):
-        visited = set()
-        marked = [s]
+        marked = set()
+        visited = [s]
      
-        while marked:
-            v = marked.pop()
+        while visited:
+            v = visited.pop()
 
-            if v not in visited:
-                visited.add(v)
+            if v not in marked:
+                marked.add(v)
             
                 for nei in graph[v]:
                     if nei == d:
                         return True    
 
-                    if nei not in visited:
-                        marked.append(nei)
+                    if nei not in marked:
+                        visited.append(nei)
             
         return False
 
