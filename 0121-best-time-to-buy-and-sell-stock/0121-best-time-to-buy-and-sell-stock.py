@@ -11,8 +11,9 @@ class Solution:
                 cur_profit = prices[j] - prices[i]
                 j += 1
             
-            max_profit = max(cur_profit, max_profit)
-        
+            if cur_profit > max_profit:
+                max_profit = cur_profit
+            
         return max_profit
             
 
