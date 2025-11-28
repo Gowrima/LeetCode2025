@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Gowrima/LeetCode2025/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Gowrima/LeetCode2025/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
+| [0146-lru-cache](https://github.com/Gowrima/LeetCode2025/tree/master/0146-lru-cache) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Gowrima/LeetCode2025/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Gowrima/LeetCode2025/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Gowrima/LeetCode2025/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/Gowrima/LeetCode2025/tree/master/0061-rotate-list) |
+| [0146-lru-cache](https://github.com/Gowrima/LeetCode2025/tree/master/0146-lru-cache) |
 ## Math
 |  |
 | ------- |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Gowrima/LeetCode2025/tree/master/0146-lru-cache) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Breadth-First Search
 |  |
@@ -187,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gowrima/LeetCode2025/tree/master/1971-find-if-path-exists-in-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Gowrima/LeetCode2025/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
