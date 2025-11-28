@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gowrima/LeetCode2025/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0543-diameter-of-binary-tree) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Bit Manipulation
 |  |
