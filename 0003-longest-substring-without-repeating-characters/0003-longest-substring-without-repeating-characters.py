@@ -17,6 +17,7 @@ class Solution:
             
             j += 1
             
-            max_len = max(max_len, len(substr))
+            if len(substr) > max_len:
+                max_len = len(substr)
         
         return max_len
