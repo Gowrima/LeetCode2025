@@ -147,12 +147,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0100-same-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gowrima/LeetCode2025/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Search Tree
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
+| [0100-same-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0100-same-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 ## Bit Manipulation
@@ -180,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0100-same-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gowrima/LeetCode2025/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
