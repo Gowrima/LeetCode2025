@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowrima/LeetCode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gowrima/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Gowrima/LeetCode2025/tree/master/4080-smallest-missing-multiple-of-k) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Gowrima/LeetCode2025/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gowrima/LeetCode2025/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gowrima/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Gowrima/LeetCode2025/tree/master/0367-valid-perfect-square) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
 ## Recursion
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gowrima/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Dynamic Programming
 |  |
 | ------- |
