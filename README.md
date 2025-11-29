@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Gowrima/LeetCode2025/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
 | [0146-lru-cache](https://github.com/Gowrima/LeetCode2025/tree/master/0146-lru-cache) |
+| [2103-rings-and-rods](https://github.com/Gowrima/LeetCode2025/tree/master/2103-rings-and-rods) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 | [4080-smallest-missing-multiple-of-k](https://github.com/Gowrima/LeetCode2025/tree/master/4080-smallest-missing-multiple-of-k) |
 ## Linked List
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
+| [2103-rings-and-rods](https://github.com/Gowrima/LeetCode2025/tree/master/2103-rings-and-rods) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Sliding Window
