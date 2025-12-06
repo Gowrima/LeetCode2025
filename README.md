@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/Gowrima/LeetCode2025/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Gowrima/LeetCode2025/tree/master/0057-insert-interval) |
 | [0066-plus-one](https://github.com/Gowrima/LeetCode2025/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/Gowrima/LeetCode2025/tree/master/0079-word-search) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gowrima/LeetCode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gowrima/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/Gowrima/LeetCode2025/tree/master/0079-word-search) |
 | [2103-rings-and-rods](https://github.com/Gowrima/LeetCode2025/tree/master/2103-rings-and-rods) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Gowrima/LeetCode2025/tree/master/0079-word-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -142,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Gowrima/LeetCode2025/tree/master/0054-spiral-matrix) |
+| [0079-word-search](https://github.com/Gowrima/LeetCode2025/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Gowrima/LeetCode2025/tree/master/0200-number-of-islands) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
 ## Simulation
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Gowrima/LeetCode2025/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0101-symmetric-tree) |
