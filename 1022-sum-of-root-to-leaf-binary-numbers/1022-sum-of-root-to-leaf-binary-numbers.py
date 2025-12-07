@@ -11,7 +11,7 @@ class Solution:
             if not node:
                 return 0
 
-            cur = (cur << 1) | node.val
+            cur = (cur << 1) + node.val
 
             if not node.left and not node.right:
                 return cur
