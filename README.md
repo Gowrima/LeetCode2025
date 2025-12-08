@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Gowrima/LeetCode2025/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/Gowrima/LeetCode2025/tree/master/0079-word-search) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gowrima/LeetCode2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2103-rings-and-rods](https://github.com/Gowrima/LeetCode2025/tree/master/2103-rings-and-rods) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
 | [3797-design-spreadsheet](https://github.com/Gowrima/LeetCode2025/tree/master/3797-design-spreadsheet) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gowrima/LeetCode2025/tree/master/0011-container-with-most-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gowrima/LeetCode2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gowrima/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Gowrima/LeetCode2025/tree/master/0155-min-stack) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gowrima/LeetCode2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
 | ------- |
