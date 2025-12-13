@@ -4,26 +4,16 @@
 #         self.val = val
 #         self.left = left
 #         self.right = right
-from collections import defaultdict
-
 class Solution:
     def kthSmallest(self, root: Optional[TreeNode], k: int) -> int:
-        self.k = k
-        self.answer = None
+        arr = []
         
         def inorder(node):
             if not node:
                 return
-            
             inorder(node.left)
-            
-            self.k -= 1
-            
-            if self.k == 0:
-                self.answer = node.val
-                return
-            
+            arr.append(node.val)
             inorder(node.right)
         
         inorder(root)
-        return self.answer
+        return arr[k-1]
