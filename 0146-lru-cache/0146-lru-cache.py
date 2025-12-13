@@ -12,7 +12,7 @@ class LRUCache:
         if key in self.cache:
             res = self.cache[key]
             self.cache.move_to_end(key, last=True)
-
+        
         return res
 
     def put(self, key: int, value: int) -> None:
@@ -20,15 +20,14 @@ class LRUCache:
             self.cache[key] = value
             self.cache.move_to_end(key, last=True)
             return
-        
+
         if len(self.cache) >= self.capacity:
-            # evict
+            # evict least recently used
             self.cache.popitem(last=False)
-        
+
         self.cache[key] = value
         self.cache.move_to_end(key, last=True)
-
-
+        
 
 # Your LRUCache object will be instantiated and called as such:
 # obj = LRUCache(capacity)
