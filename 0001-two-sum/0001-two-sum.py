@@ -2,15 +2,14 @@ from collections import defaultdict
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-        hash_ = defaultdict()
-        res = tuple()
+
+        dict_ = defaultdict(int)
 
         for i in range(len(nums)):
-            to_find = target - nums[i]       
-            
-            if to_find in hash_:
-                res = (hash_[to_find], i)
+            if target-nums[i] in dict_:
+                return i, dict_[target-nums[i]]
             else:
-                hash_[nums[i]] = i
+                dict_[nums[i]] = i
 
-        return res
+        return -1, -1        
+            
