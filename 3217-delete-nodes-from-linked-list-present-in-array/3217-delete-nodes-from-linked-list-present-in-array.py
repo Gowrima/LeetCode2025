@@ -17,7 +17,6 @@ class Solution:
         while cur:
             if cur.val in ll_nodes:
                 prev.next = cur.next
-                del cur 
                 cur = prev.next
             else:
                 prev = cur
