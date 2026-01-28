@@ -9,25 +9,18 @@ class Solution:
         
         ll_nodes = set(nums)
         
-        cur = head # 1
-        prev = None
+        cur = head
+        dummy = ListNode(-1)
+        prev = dummy
+        dummy.next = head
 
         while cur:
             if cur.val in ll_nodes:
-                if prev is None:
-                    head = cur.next #2
-                    del cur 
-                    cur = head # 2,1,2,1,2 
-                elif cur.next is None:
-                    prev.next = None
-                    del cur
-                    cur = prev
-                else:
-                    prev.next = cur.next
-                    del cur 
-                    cur = prev.next
+                prev.next = cur.next
+                del cur 
+                cur = prev.next
             else:
                 prev = cur
                 cur = cur.next
     
-        return head
+        return dummy.next
