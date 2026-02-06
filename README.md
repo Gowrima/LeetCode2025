@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gowrima/LeetCode2025/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gowrima/LeetCode2025/tree/master/0207-course-schedule) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gowrima/LeetCode2025/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0339-nested-list-weight-sum](https://github.com/Gowrima/LeetCode2025/tree/master/0339-nested-list-weight-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0543-diameter-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/Gowrima/LeetCode2025/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0200-number-of-islands](https://github.com/Gowrima/LeetCode2025/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Gowrima/LeetCode2025/tree/master/0207-course-schedule) |
+| [0339-nested-list-weight-sum](https://github.com/Gowrima/LeetCode2025/tree/master/0339-nested-list-weight-sum) |
 | [1035-cousins-in-binary-tree](https://github.com/Gowrima/LeetCode2025/tree/master/1035-cousins-in-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Gowrima/LeetCode2025/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union Find
