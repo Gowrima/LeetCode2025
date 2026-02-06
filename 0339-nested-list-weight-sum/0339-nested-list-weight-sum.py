@@ -73,9 +73,6 @@ class Solution:
         """
         # [5, [6]]
         def helper(nestedlist, depth, cur_sum):  # [6], 2, 5
-            if not nestedlist:
-                return cur_sum
-
             # print(type(nestedlist))
             for elem in nestedlist:  # [6]
                 if elem.isInteger():
