@@ -72,14 +72,16 @@ class Solution:
         case 2: [[[[[[[[[[[[[[[[[1]]]]]]]]]]]]]]]]]
         """
         # [5, [6]]
-        def helper(nestedlist, depth, cur_sum):  # [6], 2, 5
+        def helper(nestedlist, depth):  # [6], 2, 5
             # print(type(nestedlist))
+            cur_sum = 0
+            
             for elem in nestedlist:  # [6]
                 if elem.isInteger():
                     cur_sum += depth * elem.getInteger()  # cursum = 5
                 else:
-                    cur_sum = helper(elem.getList(), depth + 1, cur_sum)  # [6], 1+1=2, 5
+                    cur_sum += helper(elem.getList(), depth + 1)  # [6], 1+1=2, 5
 
             return cur_sum  # 22
 
-        return helper(nestedList, 1, 0)
+        return helper(nestedList, 1)
