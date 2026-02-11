@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Gowrima/LeetCode2025/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Gowrima/LeetCode2025/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/Gowrima/LeetCode2025/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/Gowrima/LeetCode2025/tree/master/0253-meeting-rooms-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Gowrima/LeetCode2025/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Gowrima/LeetCode2025/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -109,11 +110,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Gowrima/LeetCode2025/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Gowrima/LeetCode2025/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Gowrima/LeetCode2025/tree/master/0141-linked-list-cycle) |
+| [0253-meeting-rooms-ii](https://github.com/Gowrima/LeetCode2025/tree/master/0253-meeting-rooms-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Gowrima/LeetCode2025/tree/master/0011-container-with-most-water) |
+| [0253-meeting-rooms-ii](https://github.com/Gowrima/LeetCode2025/tree/master/0253-meeting-rooms-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Gowrima/LeetCode2025/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Trie
@@ -127,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gowrima/LeetCode2025/tree/master/0056-merge-intervals) |
 | [0252-meeting-rooms](https://github.com/Gowrima/LeetCode2025/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/Gowrima/LeetCode2025/tree/master/0253-meeting-rooms-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
@@ -277,4 +281,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gowrima/LeetCode2025/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/Gowrima/LeetCode2025/tree/master/0253-meeting-rooms-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0253-meeting-rooms-ii](https://github.com/Gowrima/LeetCode2025/tree/master/0253-meeting-rooms-ii) |
 <!---LeetCode Topics End-->
