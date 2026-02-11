@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gowrima/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0200-number-of-islands](https://github.com/Gowrima/LeetCode2025/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Gowrima/LeetCode2025/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/Gowrima/LeetCode2025/tree/master/0252-meeting-rooms) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Gowrima/LeetCode2025/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Gowrima/LeetCode2025/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Gowrima/LeetCode2025/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Gowrima/LeetCode2025/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Gowrima/LeetCode2025/tree/master/0056-merge-intervals) |
+| [0252-meeting-rooms](https://github.com/Gowrima/LeetCode2025/tree/master/0252-meeting-rooms) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Stack
 |  |
