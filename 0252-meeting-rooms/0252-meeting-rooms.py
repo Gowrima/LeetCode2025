@@ -8,3 +8,6 @@ class Solution:
                 return False
             
         return True
+
+        # time complexity = O(nlogn) + O(n) = O(nlogn)
+        # space = O(1)
