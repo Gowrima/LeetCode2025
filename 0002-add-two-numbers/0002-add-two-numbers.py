@@ -5,69 +5,58 @@
 #         self.next = next
 class Solution:
     def addTwoNumbers(self, l1: Optional[ListNode], l2: Optional[ListNode]) -> Optional[ListNode]:
-        head, tail = None, None
-      
-        n1, n2 = l1, l2
+        dummy = ListNode(-1)
+        res = dummy
+        
+        c1, c2 = l1, l2
         carry = 0
 
-        while n1 and n2:
-            #print ("n1 = ", n1.val, "n2 = ", n2.val)
+        while c1 and c2:
+            sum_ = c1.val + c2.val + carry
 
-            sum_ = n1.val + n2.val + carry
+            carry = sum_//10 # 1
+            sum_ = sum_%10 # 0
 
-            #print (sum_)
-            su = sum_%10
-            carry = sum_//10
+            newnode = ListNode(sum_)
 
-            #print (sum_, carry)
-            
-            newnode = ListNode(su)
-
-            if head == None:
-                newnode.next = head
-                head = newnode
-                tail = head
+            if not res:
+                res = newnode
             else:
-                tail.next = newnode
-                tail = newnode
+                res.next = newnode
+                res = newnode
             
-            n1 = n1.next
-            n2 = n2.next
+            c1 = c1.next
+            c2 = c2.next
+
         
-        while n1 or n2:
-            if n1:
-                sum_ = n1.val + carry
+        while c1:
+            sum_ = c1.val + carry
+            carry = sum_//10
+            sum_ = sum_%10
 
-                su = sum_%10
-                carry = sum_//10
-
-                newnode = ListNode(su)
-                n1 = n1.next
+            newnode = ListNode(sum_)
             
-            if n2:
-                sum_ = n2.val + carry
+            res.next = newnode
+            res = newnode
 
-                su = sum_%10
-                carry = sum_//10
+            c1 = c1.next
+        
+        while c2:
+            sum_ = c2.val + carry
+            carry = sum_//10
+            sum_ = sum_%10
 
-                newnode = ListNode(su)
-                n2 = n2.next
-
-            if head != None:
-                tail.next = newnode
-                tail = newnode
-            else:
-                newnode.next = head
-                head = newnode
-                tail = newnode
-
-        if carry > 0 and n1 == None and n2 == None:
-            newnode = ListNode(carry)
-            tail.next = newnode
-            tail = newnode
-
-        return head
-
-    
+            newnode = ListNode(sum_)
             
+            res.next = newnode
+            res = newnode
+
+            c2 = c2.next
+
+        if carry:
+            res.next = ListNode(carry)
+        
+        return dummy.next
             
+        
+        
