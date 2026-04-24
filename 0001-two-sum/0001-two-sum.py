@@ -2,14 +2,12 @@ from collections import defaultdict
 
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
-
-        dict_ = defaultdict(int)
-
+        d = defaultdict(int)
+        
         for i in range(len(nums)):
-            if target-nums[i] in dict_:
-                return i, dict_[target-nums[i]]
-            else:
-                dict_[nums[i]] = i
+            to_find = target-nums[i]
 
-        return -1, -1        
+            if to_find in d:
+                return [d[to_find], i]
             
+            d[nums[i]] = i
