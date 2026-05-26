@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/Gowrima/LeetCode2025/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/Gowrima/LeetCode2025/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/Gowrima/LeetCode2025/tree/master/0146-lru-cache) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gowrima/LeetCode2025/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Gowrima/LeetCode2025/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Gowrima/LeetCode2025/tree/master/3263-convert-doubly-linked-list-to-array-i) |
 ## Math
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Gowrima/LeetCode2025/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gowrima/LeetCode2025/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0367-valid-perfect-square](https://github.com/Gowrima/LeetCode2025/tree/master/0367-valid-perfect-square) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Gowrima/LeetCode2025/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [3567-convert-date-to-binary](https://github.com/Gowrima/LeetCode2025/tree/master/3567-convert-date-to-binary) |
 ## Recursion
 |  |
