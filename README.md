@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Gowrima/LeetCode2025/tree/master/0238-product-of-array-except-self) |
 | [0252-meeting-rooms](https://github.com/Gowrima/LeetCode2025/tree/master/0252-meeting-rooms) |
 | [0253-meeting-rooms-ii](https://github.com/Gowrima/LeetCode2025/tree/master/0253-meeting-rooms-ii) |
+| [1064-fixed-point](https://github.com/Gowrima/LeetCode2025/tree/master/1064-fixed-point) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Gowrima/LeetCode2025/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Gowrima/LeetCode2025/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3263-convert-doubly-linked-list-to-array-i](https://github.com/Gowrima/LeetCode2025/tree/master/3263-convert-doubly-linked-list-to-array-i) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Gowrima/LeetCode2025/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0367-valid-perfect-square](https://github.com/Gowrima/LeetCode2025/tree/master/0367-valid-perfect-square) |
 | [0938-range-sum-of-bst](https://github.com/Gowrima/LeetCode2025/tree/master/0938-range-sum-of-bst) |
+| [1064-fixed-point](https://github.com/Gowrima/LeetCode2025/tree/master/1064-fixed-point) |
 ## Binary Tree
 |  |
 | ------- |
