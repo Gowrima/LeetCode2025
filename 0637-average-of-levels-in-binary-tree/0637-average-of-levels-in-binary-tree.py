@@ -12,7 +12,7 @@ class Solution:
         result = []
 
         while queue:
-            level = []   
+            level_sum = 0  
             
             # for tmp in queue:  [1,2,3,4,5]
             # for i in range(5)
@@ -20,7 +20,7 @@ class Solution:
             
             for i in range(size):
                 tmp = queue.popleft() #3 
-                level.append(tmp.val) # 3
+                level_sum += tmp.val # 3
 
                 if tmp.left:
                     queue.append(tmp.left) # 9
@@ -28,7 +28,7 @@ class Solution:
                 if tmp.right:
                     queue.append(tmp.right) # 9, 20
             
-            level_avg = sum(level)/size
+            level_avg = level_sum/size
             result.append(level_avg) # 3
 
         return result
